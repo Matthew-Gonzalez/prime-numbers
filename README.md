@@ -1,2 +1,2 @@
-# prime-numbers
-Parallel Prime Numbers Test developed in HPC-2021-2
+# Prime Numbers Test
+A parallel test to solve prime numbers.
